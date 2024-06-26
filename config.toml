@@ -7,5 +7,5 @@ OPENAI = "" # OpenAI API key - sk-1234567890abcdef1234567890abcdef
 GROQ = "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" # Groq API key - gsk_1234567890abcdef1234567890abcdef
 
 [API_ENDPOINTS]
-SEARXNG = "http://localhost:32768" # SearxNG API URL
+SEARXNG = "http://localhost:8080" # SearxNG API URL
 OLLAMA = "" # Ollama API URL - http://host.docker.internal:11434
