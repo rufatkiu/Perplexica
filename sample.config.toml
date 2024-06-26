@@ -4,7 +4,7 @@ SIMILARITY_MEASURE = "cosine" # "cosine" or "dot"
 
 [API_KEYS]
 OPENAI = "" # OpenAI API key - sk-1234567890abcdef1234567890abcdef
-GROQ = "" # Groq API key - gsk_1234567890abcdef1234567890abcdef
+GROQ = "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" # Groq API key - gsk_1234567890abcdef1234567890abcdef
 
 [API_ENDPOINTS]
 SEARXNG = "http://localhost:32768" # SearxNG API URL
